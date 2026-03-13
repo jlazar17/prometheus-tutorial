@@ -7,3 +7,4 @@ tutorial_output/ppc_tmp*/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+proposal_tables/
