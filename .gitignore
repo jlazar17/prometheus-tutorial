@@ -1,0 +1,9 @@
+# Generated output — download from GitHub Releases or generate locally
+tutorial_output/*.parquet
+tutorial_output/*.h5
+tutorial_output/*.lic
+tutorial_output/water_tables/
+tutorial_output/ppc_tmp*/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
